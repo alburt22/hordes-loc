@@ -15,7 +15,8 @@ export default {
     zh: '弓箭手',
     hu: 'Vadász',
     pl: 'Łucznik',
-    bg: 'Стрелец'
+    bg: 'Стрелец',
+    it: 'Arciere'
   },
 
   // Class description, visible during character creation
@@ -33,6 +34,7 @@ export default {
     ro: 'Arcașii cauzează daune mari unei ținte unice și au o arie de acțiune largă. Un arcaș bun va menține mereu o distanță considerabilă față de inamici și îi va ataca de la distanță.',
     zh: '弓箭手會對單一目標造成高額傷害而且也有著爆發區域傷害。 一個專業的弓箭手會與敵人保持距離，並在遠處進行狙擊。',
     hu: 'A vadászok kiválóan képesek koncentrálni erejüket egyetlen célpontra, és darabosan több ellenfélre is kifejthetik hatásukat. Egy jó lövész mindig távolságot tart, és a nyilait a távolból zúdítja áldozatára.',
-    pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.'
+    pl: 'Łucznicy zadają wysokie obrażenia pojedyńczym celom i duże obrażenia obszarowe. Dobry łucznik będzie zawsze trzymał dystans i strzelał do wrogów z daleka.',
+    it: 'Gli arcieri infliggono danni notevoli a bersagli singoli e hanno un area di azione ampia. Un bravo arciere sa mantenere le distanze e sarà sempre in grado di colpire i nemici da lontano'
   }
 }
